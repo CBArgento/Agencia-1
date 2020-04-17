@@ -8,8 +8,9 @@
 }
 
 .servs {
-    background-color: aqua;
     padding: 15px;
+    font-family: 'Archivo Black', sans-serif;
+    color: blue;
 }
 
 #carousel {
@@ -82,11 +83,6 @@
     padding: 10px;
 }
 
-.MoreServs {
-    background-color: aqua;
-    padding: 25px;
-}
-
 
 /* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
 @media screen and (min-width: 601px) {
@@ -101,3 +97,44 @@
       font-size: 30px;
     }
   }
+
+
+
+  /* TESTING PARALLAX */
+
+  @import url(https://fonts.googleapis.com/css?family=Lato);
+body {
+	margin:0;
+	font-family:"Lato", sans-serif;
+}
+.para-slide {
+	width:100%;
+	position:relative;
+	text-align:center;
+	height:60vh;
+}
+.para-slide h1 {
+	margin:0;
+	padding-top:5%;
+	font-size:3.5em;
+	color:white;
+}
+.para-slide h2 {
+	margin:0;
+	padding-top:5%;
+	color:white;
+	font-size:2.75em;
+}
+.para-slide h3 {
+	color:white;
+	margin-top:0;
+}
+.para-slide p {
+	color:white;
+	font-size:1.5em;
+	margin:0;
+	padding-top:3%;
+	padding-bottom:3%;
+	max-width:65%;
+	margin:auto;
+}
