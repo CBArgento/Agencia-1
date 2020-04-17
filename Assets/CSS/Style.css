@@ -7,6 +7,71 @@
     text-align: center;
 }
 
+.servs {
+    background-color: aqua;
+    padding: 15px;
+}
+
 #carousel {
     padding: 25px;
+}
+
+#ServPic1 {
+    width: 100px;
+    height: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#ServPic2 {
+    width: 100px;
+    height: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#ServPic3 {
+    width: 100px;
+    height: 210px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#ServPicTitles1 {
+    text-align: right;
+}
+
+#ServPicTitles2 {
+    text-align: left;
+}
+
+#ServPicTitles3 {
+    text-align: right;
+}
+
+#ServText1 {
+    text-align: right;
+}
+
+#ServText3 {
+    text-align: right;
+}
+
+
+#container1 {
+    padding: 10px;
+}
+
+#container2 {
+    padding: 10px;
+}
+
+#container3 {
+    padding: 10px;
 }
