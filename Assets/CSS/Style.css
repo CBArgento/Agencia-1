@@ -1,3 +1,8 @@
+#Title {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Permanent Marker', cursive;
+}
+
 #cards {
     display: inline;
     text-align: text-center;
@@ -46,28 +51,37 @@
 
 #ServPicTitles1 {
     text-align: right;
+    font-family: 'Archivo Black', sans-serif;
 }
 
 #ServPicTitles2 {
     text-align: left;
+    font-family: 'Archivo Black', sans-serif;
 }
 
 #ServPicTitles3 {
     text-align: right;
+    font-family: 'Archivo Black', sans-serif;
 }
 
 #ServText1 {
     text-align: right;
     word-wrap: break-word;
+    font-family: 'Roboto', sans-serif;
+    color: darkblue;
 }
 
 #ServText2 {
     word-wrap: break-word;
+    font-family: 'Roboto', sans-serif;
+    color: darkblue;
 }
 
 #ServText3 {
     text-align: right;
     word-wrap: break-word;
+    font-family: 'Roboto', sans-serif;
+    color: darkblue;
 }
 
 
@@ -138,3 +152,4 @@ body {
 	max-width:65%;
 	margin:auto;
 }
+
