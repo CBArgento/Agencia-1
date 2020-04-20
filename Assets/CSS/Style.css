@@ -10,6 +10,11 @@
 
 #Services {
     text-align: center;
+    color: black;
+}
+
+#servsP {
+    color: black;
 }
 
 .servs {
@@ -164,4 +169,10 @@ body {
 
 #CarsImg {
     
+}
+
+.FollowUs {
+    background-color: lightcyan;
+    padding: 10%;
+    text-align: center;
 }
