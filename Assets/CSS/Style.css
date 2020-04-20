@@ -173,6 +173,20 @@ body {
 
 .FollowUs {
     background-color: lightcyan;
-    padding: 10%;
+    padding: 11%;
     text-align: center;
+}
+
+#ServHdr {
+    padding: 5%;
+    background-color: #17a2b8;
+}
+
+.iconify {
+    width: 50px;
+    height: 50px;
+}
+
+#ServTitle {
+    color: black;
 }
