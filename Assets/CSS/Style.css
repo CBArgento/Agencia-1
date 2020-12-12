@@ -190,3 +190,12 @@ body {
 #ServTitle {
     color: white;
 }
+
+
+.header {
+    background-color: gray;
+}
+
+.divider {
+    padding: 20px;
+}
